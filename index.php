@@ -4,7 +4,7 @@
      */
 
     include "liblary/from.php";
-    include "liblary/database.php";
+    // include "liblary/database.php";
 
     echo "<html><head><title>Mahasiswa</title></head><body>";
     $form = new Form("","Input Form");
