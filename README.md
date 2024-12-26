@@ -10,13 +10,6 @@
 ![alt text](image-2.png)
 
 
-<h1>Nama: Muhammad Dhean Shafwan</h1>
-<h1>Kelas: TI.23.A1</h1>
-<h1>Lab10Web</h1>
-<hr> <br>
-
-<h2>Buat folder baru dengan nama lab10_php_oop pada docroot webserver (htdocs)</h2>
-
 <hr> <br>
 
 <h2>1. 1. Buat file baru dengan nama mobil.php</h2>
